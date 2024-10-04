@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=DcMotorInterfacing.mcppi
+Project1=DC_motor.mcppi
+Project2=led_blinking.mcppi
+[ActiveProject]
+Index=2
