@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Raihan\Desktop\ProteusLab\SevenSegmentTwoDigit\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Raihan\Desktop\ProteusLab\SevenSegmentTwoDigit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "sevensegmentOneDigit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	sevensegmentOneDigit.c
+diagnostics: 17	123	Compiled Successfully	sevensegmentOneDigit.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)
+hint: 0	1144	Used ROM (program words): 86 (1%)  Free ROM (program words): 8106 (99%)	Used ROM (program words): 86 (1%)  Free ROM (program words): 8106 (99%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 235 ms	 
+diagnostics: 0	103	Finished successfully: 04 Oct 2024, 11:24:26	MyProject.mcppi
