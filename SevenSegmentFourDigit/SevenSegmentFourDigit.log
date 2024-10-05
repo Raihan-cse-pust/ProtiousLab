@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Raihan\Desktop\ProteusLab\SevenSegmentFourDigit\SevenSegmentFourDigit.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Raihan\Desktop\ProteusLab\SevenSegmentFourDigit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SevenSegmentFourDigit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SevenSegmentFourDigit.c
+diagnostics: 45	123	Compiled Successfully	SevenSegmentFourDigit.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 24 (7%)  Free RAM (bytes): 328 (93%)	Used RAM (bytes): 24 (7%)  Free RAM (bytes): 328 (93%)
+hint: 0	1144	Used ROM (program words): 375 (5%)  Free ROM (program words): 7817 (95%)	Used ROM (program words): 375 (5%)  Free ROM (program words): 7817 (95%)
+diagnostics: 0	125	Project Linked Successfully	SevenSegmentFourDigit.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'SevenSegmentFourDigit.mcppi' completed: 265 ms	 
+diagnostics: 0	103	Finished successfully: 05 Oct 2024, 15:26:36	SevenSegmentFourDigit.mcppi
