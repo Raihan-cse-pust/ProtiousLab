@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\LedBlinking\LedBlinking.mcppi
+Project1=DotR.mcppi
+[ActiveProject]
+Index=1

@@ -6,7 +6,7 @@ Value=0
 [BUILD_TYPE]
 Value=0
 [ACTIVE_TAB]
-Value=..\SevenSegmentFourDigit\SevenSegmentFourDigit.c
+Value=DotR.c
 [USE_EEPROM]
 Value=0
 [USE_HEAP]
@@ -16,7 +16,7 @@ Value=0
 [EEPROM_DEFINITION]
 Value=
 [FILES]
-File0=sevensegmentOneDigit.c
+File0=DotR.c
 Count=1
 [BINARIES]
 Count=0
@@ -24,9 +24,8 @@ Count=0
 Count=0
 ActiveImageIndex=-1
 [OPENED_FILES]
-File0=sevensegmentOneDigit.c
-File1=..\SevenSegmentFourDigit\SevenSegmentFourDigit.c
-Count=2
+File0=DotR.c
+Count=1
 [EEPROM]
 Count=0
 [ACTIVE_COMMENTS_FILES]
@@ -44,10 +43,9 @@ Count=0
 [Useses]
 Count=0
 [EXPANDED_NODES]
-0=MyProject.mcppi
-Count=1
+Count=0
 [LIB_EXPANDED_NODES]
-Count=1
+Count=0
 [PROGRAMMER_TYPE]
 Value=mikroE mikroProg
 [CODEGRIP_OPTIONS]
