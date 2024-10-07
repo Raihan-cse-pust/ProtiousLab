@@ -6,7 +6,7 @@ Value=0
 [BUILD_TYPE]
 Value=0
 [ACTIVE_TAB]
-Value=..\Servo motor\ServoMotor.c
+Value=ServoMotor.c
 [USE_EEPROM]
 Value=0
 [USE_HEAP]
@@ -16,7 +16,7 @@ Value=0
 [EEPROM_DEFINITION]
 Value=
 [FILES]
-File0=ADC.c
+File0=ServoMotor.c
 Count=1
 [BINARIES]
 Count=0
@@ -24,10 +24,9 @@ Count=0
 Count=0
 ActiveImageIndex=-1
 [OPENED_FILES]
-File0=ADC.c
-File1=..\Tempreature\temp.c
-File2=..\SpeedControlPMW\speedControllerPWM.c
-Count=3
+File0=ServoMotor.c
+File1=..\SteperMotor\steperMotor.c
+Count=2
 [EEPROM]
 Count=0
 [ACTIVE_COMMENTS_FILES]
@@ -43,18 +42,12 @@ Count=0
 [PLDS]
 Count=0
 [Useses]
-File0=UART
-File1=ADC
-File2=Conversions
-File3=C_String
-Count=4
+Count=0
 [EXPANDED_NODES]
-0=ADC.mcppi
+0=ServoMotor.mcppi
 Count=1
 [LIB_EXPANDED_NODES]
-0=mikroE Libraries
-1=System Libraries
-Count=2
+Count=0
 [PROGRAMMER_TYPE]
 Value=mikroE mikroProg
 [CODEGRIP_OPTIONS]

@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\DotR\DotR.mcppi
+Project1=..\ACtoDC\ACtoDC.mcppi
+Project2=..\ADC\ADC.mcppi
+Project3=ServoMotor.mcppi
+[ActiveProject]
+Index=3
