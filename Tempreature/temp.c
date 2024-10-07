@@ -1,4 +1,3 @@
-// LCD module connections
 sbit LCD_RS at RB2_bit;
 sbit LCD_EN at RB3_bit;
 sbit LCD_D4 at RB4_bit;
